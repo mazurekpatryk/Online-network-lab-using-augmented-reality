@@ -1,4 +1,3 @@
-# Magic Leap Unity Project Template
 
 ## Project
 
