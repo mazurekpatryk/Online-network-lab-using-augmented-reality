@@ -3,3 +3,10 @@ The project of an application supporting the process of education in computer ne
 
 # Building
 ![](screenshots/Bulding_.gif)
+
+# Removal
+![](screenshots/removal.gif)
+
+# Removal or fitting covers 
+![](screenshots/open_close.gif)
+
